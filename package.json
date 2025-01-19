@@ -20,6 +20,7 @@
   "homepage": "https://github.com/NicholasBoyer/MultiTool-Web#readme",
   "description": "",
   "dependencies": {
+    "chalk": "^4.1.2",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "minimist": "^1.2.8",
