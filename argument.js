@@ -1,3 +1,7 @@
+/*
+    Argument passing demo
+*/
+
 const minimist = require('minimist');
 
 const PRINT_ARGS = true;
