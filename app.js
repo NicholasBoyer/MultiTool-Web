@@ -11,5 +11,5 @@ app.use('/', indexRouter);
 
 // Start server
 app.listen(PORT, () => {
-    console.log("Running frontend on http://localhost${PORT}");
+    console.log(`Running frontend on http://localhost:${PORT}`);
 });
